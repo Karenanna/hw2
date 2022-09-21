@@ -42,7 +42,7 @@ public class Main {
         System.out.println("отличие  между боксерами" + weightDistinctionBoxer + "кг!");
         var totalTime = 640;
         var employersTime = 8;
-        System.out.println("Всего работнтков в компании - чел." + totalTime / employersTime);
+        System.out.println("Всего работнтков в компании -  чел." + totalTime / employersTime);
 
 
 
